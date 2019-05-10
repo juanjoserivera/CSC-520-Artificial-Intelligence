@@ -1,6 +1,5 @@
 # Assignment 1 | CSC 520 – Artificial Intelligence – Fall 2018
-### Juan Jose Rivera
-### 200262237
+
 
 ## Theory Questions and Practice question
 
